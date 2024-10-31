@@ -5,6 +5,8 @@
 
 .headr-menu {
     display: flex;
+
+
 }
 
 
@@ -14,20 +16,49 @@
 }
 
 .buy1 {
-    margin-left: 1232px;
-    margin-top: 10px;
-    
-}
-.ogo {
-    margin-left: 850px;
-    margin-top: 0%;
+    margin-left: 48.5px;
+    margin-top: 16.5px;
+
 }
 
+.odp {
+    margin-top: 117px;
 
-.glav1 {
-    margin-top: 0%;
-    margin-left: 632px;
 }
 
 
+.odp li {
+    display: inline;
 
+
+}
+
+.glav {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30.48px;
+    text-align: left;
+    margin-left: 147.58px;
+
+}
+
+.akchii {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+    text-align: left;
+    margin-left: 66.5px;
+
+}
+
+.ohac {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+    text-align: left;
+    margin-left: 30.5px;
+
+}
