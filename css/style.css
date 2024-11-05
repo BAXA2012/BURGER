@@ -1,5 +1,5 @@
 .headr {
-    height: 1400px;
+    height: 900px;
     background-image: url("../img/karkas.svg");
 }
 
@@ -55,18 +55,109 @@
 
 
 }
+.headr-menu1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 
-.fasty {
+
+
+
+}
+
+.fasy {
+    margin-top: 80px;
+}
+
+.fasy li {
+    display: inline;
+    padding-left: 106.5px;
+
+
+}
+
+.fast{
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+    text-align: left;
+    margin-left: 30.5px;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin-top: 189.49px;
+
+}
+.zakaz {
     font-family: Montserrat;
     font-size: 25px;
     font-weight: 500;
     line-height: 30.48px;
     text-align: left;
     margin-left: 160px;
-    margin-top: 189.49px;
-   
+    background-color: tomato;
+    
+}
+
+
+.menu {
+    margin-left: 729px;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 500;
 
 }
+.burgero {
+    margin-left: 87px;
+}
+.burger1 {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left:  232px;
+    margin-top: 30px;
+}
+
+.kuricha1 {
+    margin-left: 38px;
+    margin-top: 98px;
+}
+.byrg{
+    margin-left:  87px;
+
+}
+
+.kyrih {
+    margin-left: 38px;
+}
+
+.kyriha{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 245px;
+    margin-top: 0px;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.burger{
+    margin-left: 1100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    display: inline;
+
+
+}
+
+
+
+
+
+
+
 
 
 
