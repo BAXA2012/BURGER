@@ -55,7 +55,8 @@
 
 
 }
-.headr-menu1{
+
+.headr-menu1 {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -76,19 +77,19 @@
 
 }
 
-.fast{
+.fast {
     font-family: Montserrat;
     font-size: 25px;
     font-weight: 500;
     line-height: 30.48px;
     text-align: left;
     margin-left: 30.5px;
-    position: absolute;
     bottom: 8px;
     left: 16px;
     margin-top: 189.49px;
 
 }
+
 .zakaz {
     font-family: Montserrat;
     font-size: 25px;
@@ -97,7 +98,7 @@
     text-align: left;
     margin-left: 160px;
     background-color: tomato;
-    
+
 }
 
 
@@ -108,14 +109,16 @@
     font-weight: 500;
 
 }
+
 .burgero {
     margin-left: 87px;
 }
+
 .burger1 {
     font-family: Montserrat;
     font-size: 30px;
     font-weight: 500;
-    margin-left:  232px;
+    margin-left: 232px;
     margin-top: 30px;
 }
 
@@ -123,8 +126,9 @@
     margin-left: 38px;
     margin-top: 98px;
 }
-.byrg{
-    margin-left:  87px;
+
+.byrg {
+    margin-left: 87px;
 
 }
 
@@ -132,7 +136,7 @@
     margin-left: 38px;
 }
 
-.kyriha{
+.kyriha {
     font-family: Montserrat;
     font-size: 30px;
     font-weight: 500;
@@ -142,7 +146,7 @@
     margin-top: 0px;
 }
 
-.burger{
+.burger {
     margin-left: 1100px;
     display: flex;
     align-items: center;
@@ -154,10 +158,51 @@
 
 
 
+.headr-order {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.headr-order-text {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.headr-order-text-delivery {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39.01px;
+    text-align: left;
+    margin-bottom: 29px;
+}
+
+.headr-order-text-sale {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    margin-bottom: 29px;
 
 
+}
 
-
-
-
-
+.headr-order-button {
+    width: 142.26px;
+    height: 60px;
+    top: 523px;
+    left: 130px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    background: #E52626;
+    color: white;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.26px;
+    
+}
