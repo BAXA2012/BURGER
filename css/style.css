@@ -190,7 +190,7 @@
 }
 
 .info {
-    width: 1600px;
+    background-image: url("../img/footer-background.svg");
     height: 450px;
     gap: 0px;
     opacity: 0px;
