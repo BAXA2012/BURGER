@@ -189,7 +189,7 @@
 
 }
 
-.info {
+.footer {
     background-image: url("../img/footer-background.svg");
     height: 450px;
     gap: 0px;
@@ -199,4 +199,41 @@
     display: flex;
 
 
+
+}
+
+.footer-text {
+    display: flex;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-align: left;
+    justify-content: space-between;
+    width: 900px;
+    margin-top: 157px;
+
+}
+
+.footer-text2 {
+    margin-top: 45px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    
+
+
+
+}
+
+.prava {
+    margin-top: 20px;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
 }
